@@ -157,3 +157,15 @@ SELECT
     avg_order_value
 FROM ranked_years
 ORDER BY year DESC;
+
+-- top products by revenue
+
+SELECT 
+    p.product_id,
+    p.product_name,
+    SUM(oi.quantity * oi.unit_price) AS total_revenue,
+    RANK() OVER (ORDER BY SUM(oi.quantity * oi.unit_price) DESC) AS revenue_rank
+FROM products p
+JOIN order_items oi ON p.product_id = oi.product_id
+GROUP BY p.product_id, p.product_name
+ORDER BY revenue_rank;
