@@ -1,201 +1,201 @@
-product_id,product_name,category,price,stock_quantity
-1,Excepturi,Home,12.28,128
-2,Incidunt,Home,204.72,530
-3,Natus,Clothing,13.14,942
-4,Libero,Clothing,285.66,199
-5,Officiis,Books,347.15,56
-6,Adipisci,Books,400.69,880
-7,A,Home,107.1,677
-8,Hic,Books,496.77,965
-9,Dolores,Electronics,319.65,849
-10,Quisquam,Books,118.67,768
-11,Accusamus,Books,336.44,28
-12,Odit,Home,158.66,709
-13,Numquam,Home,105.62,818
-14,Blanditiis,Clothing,320.55,833
-15,Accusantium,Books,35.14,939
-16,Occaecati,Toys,23.27,268
-17,Id,Books,479.74,988
-18,Necessitatibus,Home,411.28,216
-19,Ad,Electronics,189.86,488
-20,At,Home,199.39,847
-21,Omnis,Books,69.77,241
-22,Quos,Toys,384.31,30
-23,Voluptatem,Electronics,460.38,676
-24,Voluptatibus,Home,32.39,332
-25,Deleniti,Books,319.1,150
-26,Doloribus,Home,499.23,546
-27,Libero,Books,384.62,711
-28,Quia,Clothing,179.56,247
-29,Quasi,Electronics,56.67,924
-30,Possimus,Books,20.11,294
-31,Provident,Electronics,258.03,99
-32,Ipsum,Toys,402.45,257
-33,Libero,Home,437.04,831
-34,Maiores,Electronics,429.12,874
-35,Consequatur,Home,212.54,837
-36,Corporis,Toys,244.4,255
-37,Molestias,Home,379.19,618
-38,Animi,Home,88.08,144
-39,Magnam,Books,118.88,153
-40,Repudiandae,Home,298.21,61
-41,Eveniet,Electronics,199.43,847
-42,Sint,Electronics,81.65,842
-43,Est,Clothing,353.19,139
-44,Vel,Books,442.03,294
-45,Enim,Clothing,237.38,687
-46,Tenetur,Toys,269.36,719
-47,Fugiat,Electronics,415.61,494
-48,Veniam,Books,457.07,23
-49,Cum,Clothing,265.46,648
-50,Veniam,Home,122.86,206
-51,Ut,Home,313.8,74
-52,Optio,Books,361.29,78
-53,Adipisci,Books,262.25,449
-54,Nulla,Home,319.54,519
-55,Id,Books,477.35,514
-56,Repellendus,Books,58.57,936
-57,Sint,Books,315.85,510
-58,Illo,Home,242.22,388
-59,Nihil,Toys,322.22,142
-60,Cum,Clothing,35.52,440
-61,Error,Electronics,117.78,648
-62,Nemo,Clothing,34.15,469
-63,Est,Clothing,17.28,485
-64,Unde,Home,101.6,382
-65,Sint,Toys,326.45,369
-66,Tempora,Books,291.07,677
-67,Voluptates,Home,352.47,877
-68,Mollitia,Clothing,331.53,872
-69,Perferendis,Home,329.99,245
-70,Est,Electronics,378.98,150
-71,Expedita,Electronics,179.97,212
-72,Perspiciatis,Books,183.14,982
-73,Et,Toys,116.95,316
-74,Quis,Home,238.52,133
-75,Suscipit,Electronics,254.21,553
-76,Incidunt,Electronics,470.49,577
-77,Quos,Electronics,368.75,216
-78,Quibusdam,Clothing,170.79,387
-79,Labore,Books,226.7,26
-80,Non,Toys,80.98,501
-81,Voluptatum,Electronics,219.25,127
-82,Temporibus,Clothing,171.67,556
-83,Provident,Home,155.77,436
-84,Nesciunt,Electronics,186.02,591
-85,Quas,Clothing,437.88,153
-86,Magnam,Toys,116.4,434
-87,Soluta,Toys,105.16,81
-88,Quidem,Clothing,21.17,784
-89,Possimus,Toys,374.55,785
-90,Minima,Clothing,363.12,434
-91,Eligendi,Home,361.97,592
-92,Eum,Electronics,425.09,976
-93,Incidunt,Books,406.67,190
-94,Cumque,Books,438.3,409
-95,Molestiae,Toys,53.88,326
-96,Voluptatum,Toys,58.89,999
-97,Nemo,Books,18.28,333
-98,Vero,Electronics,448.37,512
-99,Fugiat,Electronics,217.7,522
-100,Occaecati,Toys,159.05,81
-101,Quaerat,Toys,197.82,583
-102,Quibusdam,Toys,72.57,771
-103,Repellat,Electronics,322.97,799
-104,Ipsa,Electronics,418.42,749
-105,Occaecati,Toys,151.35,385
-106,Quae,Toys,86.69,748
-107,Vitae,Clothing,164.45,222
-108,Commodi,Books,359.92,603
-109,Unde,Clothing,347.77,623
-110,Quos,Electronics,394.36,863
-111,Iure,Electronics,426.21,21
-112,Mollitia,Electronics,246.86,281
-113,Rerum,Electronics,245.08,858
-114,Accusantium,Clothing,353.84,266
-115,Maxime,Clothing,310.06,771
-116,Quam,Home,334.69,355
-117,Nemo,Clothing,279.84,281
-118,Impedit,Home,469.32,784
-119,Error,Home,68.8,766
-120,Quae,Home,213.42,489
-121,Nostrum,Clothing,425.6,579
-122,Eaque,Home,401.21,141
-123,Aperiam,Home,297.98,483
-124,Rem,Toys,58.12,491
-125,Ipsam,Electronics,16.77,956
-126,Sed,Toys,33.49,649
-127,Officia,Electronics,54.7,994
-128,Possimus,Clothing,350.68,900
-129,Facilis,Books,249.29,985
-130,Esse,Books,480.64,393
-131,Delectus,Clothing,384.1,667
-132,Consectetur,Clothing,366.3,230
-133,Quidem,Toys,345.9,587
-134,Corrupti,Books,199.3,771
-135,Excepturi,Clothing,331.92,789
-136,Ad,Electronics,154.89,269
-137,A,Books,39.17,877
-138,Iusto,Clothing,298.64,578
-139,Unde,Toys,491.93,797
-140,Occaecati,Electronics,84.4,947
-141,Nobis,Books,24.07,512
-142,Quidem,Clothing,351.1,482
-143,Soluta,Books,295.5,434
-144,Eaque,Books,461.76,223
-145,Doloribus,Clothing,106.96,136
-146,Ullam,Electronics,255.2,418
-147,Ullam,Books,375.06,491
-148,Dignissimos,Home,343.91,737
-149,Laboriosam,Clothing,11.81,85
-150,Eaque,Home,454.55,457
-151,Explicabo,Toys,111.6,209
-152,Doloremque,Electronics,225.43,797
-153,Nisi,Books,244.87,447
-154,Delectus,Clothing,215.55,235
-155,Eveniet,Clothing,89.02,946
-156,Odit,Books,78.97,850
-157,Aspernatur,Home,386.72,626
-158,Tempora,Clothing,172.5,882
-159,Ducimus,Clothing,143.94,37
-160,Illo,Books,427.08,47
-161,Dolorem,Home,156.52,647
-162,Possimus,Books,346.49,683
-163,Accusamus,Electronics,434.43,553
-164,Quis,Home,345.2,797
-165,Ipsum,Electronics,81.28,546
-166,Quisquam,Toys,159.92,953
-167,Nostrum,Clothing,481.02,723
-168,Iste,Clothing,279.51,869
-169,Expedita,Electronics,299.46,620
-170,Quasi,Home,308.49,766
-171,Officiis,Books,398.32,805
-172,Dicta,Home,346.36,632
-173,Aperiam,Clothing,447.44,35
-174,Asperiores,Home,118.89,238
-175,Pariatur,Books,53.85,52
-176,Velit,Books,102.29,473
-177,Hic,Clothing,66.05,741
-178,Dicta,Home,186.64,321
-179,Officia,Home,30.07,166
-180,Ipsum,Home,465.27,435
-181,Officiis,Home,203.78,271
-182,Omnis,Clothing,347.64,204
-183,Possimus,Home,104.27,577
-184,Iste,Clothing,165.28,468
-185,Consectetur,Clothing,49.87,521
-186,Aspernatur,Home,102.82,243
-187,Optio,Toys,382.9,68
-188,Optio,Clothing,469.39,218
-189,Illum,Clothing,211.08,641
-190,Magni,Home,302.67,931
-191,Hic,Clothing,11.47,686
-192,Voluptatibus,Books,73.77,225
-193,Similique,Toys,217.62,123
-194,Impedit,Toys,74.78,418
-195,Nisi,Clothing,221.85,506
-196,Quam,Toys,148.62,184
-197,Consequatur,Books,463.43,323
-198,Non,Books,92.03,912
-199,Blanditiis,Toys,139.15,301
-200,Eveniet,Clothing,445.64,681
+product_id,category,price,stock_quantity
+1,4G LTE,40.16,332
+2,Satellite,38.21,40
+3,ADSL,87.99,217
+4,Fibre Broadband,83.54,495
+5,Fibre Broadband,100.02,388
+6,Leased Line,10.24,412
+7,Wireless,147.69,183
+8,Wireless,119.83,26
+9,VDSL,26.45,482
+10,ADSL,10.09,19
+11,Router,46.79,368
+12,ADSL,137.46,94
+13,ADSL,145.81,195
+14,Leased Line,64.67,189
+15,4G LTE,133.23,226
+16,ADSL,61.29,64
+17,Satellite,62.53,393
+18,4G LTE,88.87,386
+19,4G LTE,35.71,461
+20,VDSL,28.3,445
+21,Fibre Broadband,82.37,410
+22,5G,51.98,270
+23,VoIP,112.25,373
+24,Fibre Broadband,79.63,6
+25,4G LTE,149.62,465
+26,ADSL,81.86,289
+27,VoIP,37.51,72
+28,Satellite,48.92,172
+29,4G LTE,107.24,187
+30,VDSL,92.67,491
+31,4G LTE,58.91,33
+32,VDSL,148.76,288
+33,4G LTE,123.68,292
+34,VDSL,145.1,349
+35,Leased Line,29.53,57
+36,Satellite,11.36,282
+37,VoIP,117.92,89
+38,Leased Line,142.7,404
+39,VDSL,140.3,170
+40,4G LTE,23.58,471
+41,4G LTE,62.49,233
+42,Satellite,120.43,109
+43,Satellite,100.18,266
+44,5G,59.94,481
+45,5G,17.66,22
+46,VDSL,59.78,436
+47,VoIP,87.44,381
+48,Satellite,52.92,400
+49,VoIP,77.98,19
+50,4G LTE,144.96,161
+51,Wireless,42.26,420
+52,Leased Line,119.96,416
+53,Fibre Broadband,96.12,97
+54,Satellite,54.63,458
+55,Router,34.41,418
+56,Leased Line,117.61,366
+57,Satellite,81.55,137
+58,Fibre Broadband,130.54,329
+59,ADSL,52.03,128
+60,4G LTE,113.91,396
+61,Leased Line,134.81,320
+62,Wireless,115.37,460
+63,Fibre Broadband,115.2,14
+64,Leased Line,115.17,190
+65,VoIP,102.74,323
+66,Satellite,65.23,58
+67,Router,15.02,417
+68,ADSL,58.36,322
+69,Leased Line,10.32,134
+70,Satellite,36.64,185
+71,Leased Line,59.68,187
+72,VoIP,49.81,415
+73,Fibre Broadband,104.99,309
+74,Satellite,139.07,355
+75,Fibre Broadband,92.23,10
+76,5G,128.93,15
+77,Leased Line,74.41,315
+78,Wireless,61.86,212
+79,Leased Line,72.24,214
+80,4G LTE,67.36,158
+81,Satellite,43.7,199
+82,Fibre Broadband,92.99,269
+83,5G,65.1,149
+84,4G LTE,34.6,142
+85,4G LTE,92.87,77
+86,Wireless,101.82,481
+87,Wireless,107.96,355
+88,Fibre Broadband,89.31,454
+89,Wireless,117.97,373
+90,Leased Line,82.78,210
+91,Fibre Broadband,33.36,270
+92,VDSL,39.6,295
+93,ADSL,11.68,299
+94,VoIP,130.88,372
+95,VDSL,113.35,46
+96,ADSL,140.92,251
+97,Fibre Broadband,136.89,404
+98,4G LTE,35.56,180
+99,Router,22.68,110
+100,Fibre Broadband,113.21,155
+101,4G LTE,32.92,222
+102,Wireless,12.86,75
+103,5G,130.83,244
+104,4G LTE,65.88,99
+105,Fibre Broadband,48.47,494
+106,4G LTE,88.28,319
+107,VoIP,145.35,338
+108,ADSL,20.7,487
+109,Router,34.89,272
+110,Satellite,77.24,92
+111,Wireless,57.71,199
+112,Satellite,99.69,496
+113,VDSL,118.6,499
+114,Leased Line,21.76,444
+115,Fibre Broadband,15.79,288
+116,5G,26.42,262
+117,Router,82.78,220
+118,ADSL,144.12,16
+119,4G LTE,54.83,119
+120,Leased Line,77.4,45
+121,VoIP,87.49,420
+122,Leased Line,54.52,394
+123,Leased Line,136.15,403
+124,Leased Line,106.76,85
+125,Wireless,66.8,402
+126,Wireless,65.2,445
+127,Fibre Broadband,111.51,430
+128,ADSL,60.77,290
+129,Fibre Broadband,31.21,275
+130,ADSL,44.53,77
+131,Satellite,25.47,192
+132,Fibre Broadband,63.09,227
+133,VoIP,101.04,495
+134,ADSL,11.69,423
+135,Router,106.85,318
+136,5G,25.27,42
+137,Satellite,139.73,440
+138,Fibre Broadband,144.2,365
+139,4G LTE,42.76,431
+140,Router,92.5,281
+141,Satellite,82.41,320
+142,Satellite,97.92,10
+143,Satellite,66.56,467
+144,5G,115.7,448
+145,Router,25.14,317
+146,5G,23.8,28
+147,Satellite,100.64,148
+148,Satellite,52.65,350
+149,5G,73.72,173
+150,4G LTE,130.31,285
+151,Router,82.41,211
+152,Wireless,38.04,203
+153,VDSL,32.44,243
+154,VoIP,82.05,163
+155,Satellite,115.77,176
+156,VoIP,137.64,95
+157,Fibre Broadband,14.55,208
+158,Leased Line,29.11,451
+159,Leased Line,90.56,492
+160,ADSL,48.49,92
+161,ADSL,43.05,56
+162,VoIP,42.83,62
+163,Satellite,144.91,127
+164,Satellite,147.59,371
+165,Wireless,22.65,148
+166,Fibre Broadband,40.1,210
+167,4G LTE,114.34,442
+168,4G LTE,110.57,335
+169,ADSL,132.18,24
+170,Wireless,58.77,390
+171,Satellite,101.83,356
+172,Satellite,79.83,260
+173,Fibre Broadband,106.99,122
+174,4G LTE,117.06,262
+175,VDSL,61.13,219
+176,VoIP,89.25,155
+177,Wireless,33.45,472
+178,ADSL,26.87,454
+179,5G,123.9,192
+180,Router,106.49,42
+181,Router,118.79,92
+182,ADSL,142.72,375
+183,Leased Line,140.93,286
+184,Leased Line,144.23,152
+185,Wireless,88.66,260
+186,Wireless,139.53,275
+187,Fibre Broadband,49.36,300
+188,Fibre Broadband,94.01,321
+189,VDSL,141.85,58
+190,Leased Line,45.37,173
+191,Wireless,126.59,327
+192,ADSL,111.76,443
+193,VoIP,125.27,333
+194,Fibre Broadband,63.95,95
+195,Leased Line,95.03,372
+196,5G,40.63,26
+197,Leased Line,139.03,474
+198,Leased Line,14.33,287
+199,Wireless,15.09,95
+200,5G,104.38,52

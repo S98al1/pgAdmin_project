@@ -37,7 +37,6 @@ payment_method TEXT
 
 Create table products(
 product_id INT PRIMARY KEY,
-product_name TEXT,
 category TEXT,
 price INTEGER,
 stock_quantity INTEGER
@@ -158,14 +157,20 @@ SELECT
 FROM ranked_years
 ORDER BY year DESC;
 
--- top products by revenue
+-- top orders by revenue for each product sold
 
 SELECT 
-    p.product_id,
-    p.product_name,
-    SUM(oi.quantity * oi.unit_price) AS total_revenue,
-    RANK() OVER (ORDER BY SUM(oi.quantity * oi.unit_price) DESC) AS revenue_rank
-FROM products p
-JOIN order_items oi ON p.product_id = oi.product_id
-GROUP BY p.product_id, p.product_name
-ORDER BY revenue_rank;
+    product_id,
+    category,
+    total_revenue,
+    RANK() OVER (PARTITION BY category ORDER BY total_revenue DESC) AS revenue_rank
+FROM (
+    SELECT 
+        p.product_id,
+        p.category,
+        SUM(oi.quantity * oi.unit_price) AS total_revenue
+    FROM products p
+    JOIN order_items oi ON p.product_id = oi.product_id
+    GROUP BY p.product_id, p.category
+) AS product_revenue
+ORDER BY category, revenue_rank;
