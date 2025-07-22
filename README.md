@@ -1,12 +1,12 @@
 Hello
 
-Welcome to my SQL ISP project in PostgreSQL.
-
-This is a guide of how to view my project and queries/data.
+Welcome to my SQL ISP project in PostgreSQL, consisting of querying data in postgreSQL and then visualising the data within Tableau
 
 I hope you enjoy.
 
-Here is how I have set up my schema:
+
+
+Here is how I have set up my PostgreSQL schema:
 
 I have created 5 tables that connect. These being: customers, order_items, orders, payments and products. 
 
